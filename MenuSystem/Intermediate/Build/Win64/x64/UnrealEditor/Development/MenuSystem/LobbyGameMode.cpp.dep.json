@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\luisi\\onedrive\\documentos\\unreal projects\\menusystem\\source\\menusystem\\lobbygamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\luisi\\onedrive\\documentos\\unreal projects\\menusystem\\intermediate\\build\\win64\\x64\\menusystemeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\luisi\\onedrive\\documentos\\unreal projects\\menusystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\menusystem\\definitions.menusystem.h",
+            "c:\\users\\luisi\\onedrive\\documentos\\unreal projects\\menusystem\\source\\menusystem\\lobbygamemode.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\luisi\\onedrive\\documentos\\unreal projects\\menusystem\\intermediate\\build\\win64\\unrealeditor\\inc\\menusystem\\uht\\lobbygamemode.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestatebase.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestatebase.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

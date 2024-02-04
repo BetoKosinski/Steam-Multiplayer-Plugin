@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/luisi/OneDrive/Documentos/Unreal Projects/MenuSystem/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/luisi/OneDrive/Documentos/Unreal Projects/MenuSystem/Plugins/MultiplayerSessions/Content/WBP_Menu.uasset",
+				"C:/Users/luisi/OneDrive/Documentos/Unreal Projects/MenuSystem/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/luisi/OneDrive/Documentos/Unreal Projects/MenuSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/luisi/OneDrive/Documentos/Unreal Projects/MenuSystem/Content/ThirdPerson/Blueprints/BP_LobbyGameMode.uasset",
+				"C:/Users/luisi/OneDrive/Documentos/Unreal Projects/MenuSystem/Content/ThirdPerson/Maps/Lobby.umap"
+			]
+		}
+	]
+}

@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MenuSystem-0004.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\luisi\OneDrive\Documentos\Unreal Projects\MenuSystem\Intermediate\Build\Win64\x64\MenuSystemEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\luisi\OneDrive\Documentos\Unreal Projects\MenuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSystem\LobbyGameMode.gen.cpp.obj"
+"C:\Users\luisi\OneDrive\Documentos\Unreal Projects\MenuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSystem\MenuSystem.init.gen.cpp.obj"
+"C:\Users\luisi\OneDrive\Documentos\Unreal Projects\MenuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSystem\MenuSystemCharacter.gen.cpp.obj"
+"C:\Users\luisi\OneDrive\Documentos\Unreal Projects\MenuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSystem\MenuSystemGameMode.gen.cpp.obj"
+"C:\Users\luisi\OneDrive\Documentos\Unreal Projects\MenuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSystem\LobbyGameMode.cpp.obj"
+"C:\Users\luisi\OneDrive\Documentos\Unreal Projects\MenuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSystem\MenuSystem.cpp.obj"
+"C:\Users\luisi\OneDrive\Documentos\Unreal Projects\MenuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSystem\MenuSystemCharacter.cpp.obj"
+"C:\Users\luisi\OneDrive\Documentos\Unreal Projects\MenuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSystem\MenuSystemGameMode.cpp.obj"
+"C:\Users\luisi\OneDrive\Documentos\Unreal Projects\MenuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSystem\Default.rc2.res"
+/OUT:"C:\Users\luisi\OneDrive\Documentos\Unreal Projects\MenuSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\MenuSystem\UnrealEditor-MenuSystem-0004.lib"
